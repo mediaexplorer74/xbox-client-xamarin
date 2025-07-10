@@ -8,7 +8,7 @@ My fork of xbox-client-xamarin, Xbox one gamestreaming app for Android & iOS.
 
 ## About
 - Xamarin.Forms multi platform gamestreaming client app
-- UWP Target: Draft / Not ready (when Auth button clicked, app crashes)
+- UWP Target: Draft / Not ready (when Authenticate button clicked, app crashes)
 
 ## Screenshots
 
