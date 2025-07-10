@@ -25,7 +25,7 @@ My fork of xbox-client-xamarin, Xbox one gamestreaming app for Android & iOS.
 
 ## Build from source
 ```sh
-git clone g--recursive https://github.com/mediaexplorer74/xbox-client-xamarin
+git clone --recursive https://github.com/mediaexplorer74/xbox-client-xamarin
 ```
 
 ## TODO
