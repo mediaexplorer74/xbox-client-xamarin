@@ -1,4 +1,4 @@
-# xbox-client-xamarin 1.0-pre-pre-pre-alpha - master branch 
+# xbox-client-xamarin 1.0-pre-pre-pre-alpha - dev branch 
 
 ![](Images/logo.png)
 
@@ -6,9 +6,10 @@ My fork of xbox-client-xamarin, Xbox one gamestreaming app for Android & iOS.
 
 " Dream(ing) on adding "Windows OneCore" (UWP)… " =)
 
-## About
+## About / Status
 - Xamarin.Forms multi platform gamestreaming client app
 - UWP Target: Draft / Not ready (when Authenticate button clicked, app crashes)
+- I updated Xamarin.Forms (from 3.6 to 4.8), and Auth Windows show broken (unactive) buttons… :(
 
 ## Screenshots
 
@@ -38,7 +39,7 @@ git clone --recursive https://github.com/mediaexplorer74/xbox-client-xamarin
 - https://github.com/OpenXbox/smartglass-documentation Documentation of the Xbox One SmartGlass protocol
 - https://github.com/OpenXbox/xbox-smartglass-csharp .NET Standard client library for the Xbox One SmartGlass protocol
 - https://github.com/OpenXbox/xbox-webapi-csharp C# Xbox WebAPI, includes support for authentication with Windows Live / Xbox Live
-- https://github.com/OpenXbox/xbox-client-ffmpeg Multi-platform Gamestreaming app ?
+- https://github.com/OpenXbox/xbox-client-ffmpeg Windows Desktop Gamestreaming app 
 
 
 ## Support
